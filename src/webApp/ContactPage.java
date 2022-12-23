@@ -6,4 +6,7 @@ public class ContactPage {
     // email
 
     // social media
+
+    // FAQ
+    // logo
 }
