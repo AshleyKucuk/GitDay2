@@ -10,4 +10,8 @@ public class Sales {
     // extra 10% off sale
 
     // holiday sales
+
+    // birthday promo code
+    // birthday promo (20%)
+
 }
