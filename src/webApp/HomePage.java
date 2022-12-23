@@ -9,4 +9,6 @@ public class HomePage {
     // library
     //favorites
 
+    // Account info
+
 }
