@@ -12,5 +12,6 @@ public class Sales {
     // holiday sales
 
     // birthday promo code
+    // birthday promo
 
 }
